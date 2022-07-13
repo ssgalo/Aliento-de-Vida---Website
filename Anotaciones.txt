@@ -1,0 +1,4 @@
+El truco del slider está en que el contenedor de todas las imagenes tiene que tener un ancho de n * 100%
+Siendo n la cantidad de imagenes
+
+Tambien el contenedor de ese slider tiene que tener un overflow:hidden;
